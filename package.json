@@ -1,0 +1,11 @@
+{
+  "name": "a2sv-tasks",
+  "version": "1.0.0",
+  "description": "this the first task given for the a2sv web team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
